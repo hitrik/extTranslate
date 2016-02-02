@@ -1,0 +1,53 @@
+h3 {
+    margin: 5px 2px 2px;
+}
+.container {
+    position: relative;
+}
+.content {
+    padding: 10px 10px 5px;
+    font-family: Tahoma, sans-serif;
+    font-size: 18px;
+}
+input[type=text] {
+    display: block;
+    border: 1px solid #cdcdcd;
+    padding: 5px;
+    font-size: 20px;
+    color: #333;
+    font-weight: 300;
+}
+button {
+    padding: 5px 10px;
+    border: 1px solid #4682B4;
+    font-size: 20px;
+    margin: auto;
+    display: block;
+    background-color: #4682B4;
+    color: #fff;
+    border-radius: 3px;
+    text-transform: lowercase;
+    cursor: pointer;
+}
+.translate {
+    margin: 15px 5px 5px;
+    padding: 5px;
+    border-top: 1px dashed #eee;
+    border-bottom: 1px dashed #eee;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    font-size: 25px;
+    color: darkgreen;
+    min-height: 29px;
+}
+.trademark {
+    position: absolute;
+    bottom: -20px;
+    right: -8px;
+    background-color: #333;
+    color: #fff;
+    font-size: 8px;
+    padding: 3px 5px;
+    border-radius: 15px 0 0 0;
+    text-decoration: none;
+}
