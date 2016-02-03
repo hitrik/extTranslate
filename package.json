@@ -1,0 +1,32 @@
+{
+  "name": "extTranslate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "conf.test.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "karma-jasmine" : "0.3.5",
+    "jasmine-core": "^2.4.1",
+    "karma": "^0.13.19",
+    "karma-chrome-launcher": "^0.2.2",
+    "karma-jasmine": "^0.3.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hitrik/extTranslate.git"
+  },
+  "author": "'Artem <'hitrick84@ya.ru'>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hitrik/extTranslate/issues"
+  },
+  "homepage": "https://github.com/hitrik/extTranslate"
+}
